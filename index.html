@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chinese Character Quiz</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 2rem;
+      max-width: 600px;
+      margin: auto;
+      text-align: center;
+    }
+    button {
+      padding: 1rem 2rem;
+      font-size: 1.2rem;
+      margin-top: 1rem;
+    }
+    .result, .transcript {
+      margin-top: 1rem;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Chinese Character Quiz</h1>
+  <p id="question">Press Start to begin</p>
+  <button id="startBtn">Start</button>
+  <button id="skip-btn" style="display:none;">Skip</button>
+  <div class="transcript" id="transcript"></div>
+  <div class="result" id="result"></div>
+
+  <!-- Load your quiz module -->
+<script type="module">
+  import { startQuiz } from './script3.js';
+
+  document.getElementById('startBtn').addEventListener('click', () => {
+    document.getElementById('skip-btn').style.display = '';
+    startQuiz();
+  });
+</script>
+</body>
+</html>
+

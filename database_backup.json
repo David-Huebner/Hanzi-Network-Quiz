@@ -1,0 +1,63 @@
+{
+  "Gradually": {
+    "hanzi": "渐",
+    "components": [
+      [
+        "Water",
+        "Hew"
+      ],
+      [
+        "Water",
+        "Car",
+        "Catty"
+      ]
+    ],
+    "isHanzi": true,
+    "dueIn": 0,
+    "wasSkipped": false,
+    "isFalseNegative": false,
+    "falseNegativeAnswer": [
+      "what",
+      "are",
+      "x",
+      "and",
+      "co"
+    ]
+  },
+  "Hew": {
+    "hanzi": "渐",
+    "components": [
+      [
+        "Car",
+        "Catty"
+      ]
+    ],
+    "isHanzi": true,
+    "Aliases": [
+      "Hugh",
+      "Hue"
+    ],
+    "dueIn": 0,
+    "isFalseNegative": false,
+    "falseNegativeAnswer": [
+      "accent",
+      "car"
+    ]
+  },
+  "Catty": {
+    "hanzi": "斤",
+    "components": [
+      [
+        "Catty"
+      ]
+    ],
+    "isHanzi": true,
+    "Aliases": [
+      "Axe",
+      "X"
+    ],
+    "dueIn": 0,
+    "isFalseNegative": false,
+    "falseNegativeAnswer": null
+  }
+}
