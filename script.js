@@ -76,7 +76,7 @@ export async function startQuiz() {
     console.log("Starting quiz...");
     await loadDatabase()
     console.log("Loaded characters:", characters);
-    let remaining = characters.filter(c => database[c].isDue)
+    let remaining = characters.filter(c => database[c].isDue && database[c].isActive);
     let toRemove = false;
     while (remaining.length > 0) {
         currentChar = remaining[Math.floor(Math.random() * remaining.length)];

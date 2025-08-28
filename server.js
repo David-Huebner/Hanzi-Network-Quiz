@@ -3,10 +3,11 @@
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
-const app = express();
 const PORT = 3000;
 const quizStatusPath = path.join(__dirname, 'quiz_status.json');
+const https = require('https');
 
+const app = express();
 
 const dbPath = path.join(__dirname, 'database.json');
 
@@ -63,6 +64,18 @@ app.post('/api/quiz-status', (req, res) => {
     });
 });
 
-app.listen(PORT, () => {
+/* app.listen(PORT, () => {
     console.log(`Server running at http://0.0.0.0:${PORT}/`);
+}); */
+
+// Read certificate and key
+const options = {
+  key: fs.readFileSync('/home/david/localhost+2-key.pem'),
+  cert: fs.readFileSync('/home/david/localhost+2.pem')
+};
+
+// Bind to 0.0.0.0 so other devices can reach it
+https.createServer(options, app).listen(3001, '0.0.0.0', () => {
+  console.log('HTTPS server running at https://localhost:3001');
+  console.log('Accessible on LAN at https://192.168.0.249:3001');
 });

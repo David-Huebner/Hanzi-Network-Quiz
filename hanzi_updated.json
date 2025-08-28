@@ -412,7 +412,9 @@
       ]
     ],
     "Aliases": [
-      "ming"
+      "ming",
+      "ming",
+      "exit"
     ],
     "isHanzi": true,
     "isMarked": false,
@@ -432,9 +434,7 @@
         "mouth"
       ]
     ],
-    "Aliases": [
-      "boxes"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -510,10 +510,7 @@
         "ten"
       ]
     ],
-    "Aliases": [
-      "sunflower",
-      "sun flower"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -570,9 +567,7 @@
         "rice field"
       ]
     ],
-    "Aliases": [
-      "magen"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -591,10 +586,7 @@
         "one"
       ]
     ],
-    "Aliases": [
-      "sunrise",
-      "sun rise"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -651,10 +643,7 @@
         "p.a drop of"
       ]
     ],
-    "Aliases": [
-      "drop",
-      "a drop"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -673,10 +662,7 @@
         "p.walking stick"
       ]
     ],
-    "Aliases": [
-      "stick",
-      "cane"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -695,9 +681,7 @@
         "p.a drop of"
       ]
     ],
-    "Aliases": [
-      "nose"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -909,11 +893,7 @@
         "p.walking stick"
       ]
     ],
-    "Aliases": [
-      "magic rod",
-      "magic wand",
-      "wand"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -938,10 +918,7 @@
         "p.a drop of"
       ]
     ],
-    "Aliases": [
-      "fortune teller",
-      "fortune"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -1195,9 +1172,7 @@
         "p.animal legs"
       ]
     ],
-    "Aliases": [
-      "legs"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -1216,9 +1191,7 @@
         "p.bound up"
       ]
     ],
-    "Aliases": [
-      "bound"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -1256,9 +1229,7 @@
         "p.animal legs"
       ]
     ],
-    "Aliases": [
-      "ant"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -1277,12 +1248,7 @@
         "p.animal legs"
       ]
     ],
-    "Aliases": [
-      "clamp",
-      "clamps",
-      "shell",
-      "shells"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -1392,9 +1358,7 @@
         "eye"
       ]
     ],
-    "Aliases": [
-      "worker"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -1413,12 +1377,7 @@
         "youngster"
       ]
     ],
-    "Aliases": [
-      "kid",
-      "young",
-      "legs",
-      "human legs"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -1437,10 +1396,7 @@
         "how many?"
       ]
     ],
-    "Aliases": [
-      "small table",
-      "table"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -1459,9 +1415,7 @@
         "youngster"
       ]
     ],
-    "Aliases": [
-      "look"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -1482,10 +1436,7 @@
         "youngster"
       ]
     ],
-    "Aliases": [
-      "begin",
-      "start"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -1512,9 +1463,7 @@
         "p.a drop of"
       ]
     ],
-    "Aliases": [
-      "paper"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -1589,9 +1538,7 @@
         "how many?"
       ]
     ],
-    "Aliases": [
-      "normal"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -1610,10 +1557,7 @@
         "month"
       ]
     ],
-    "Aliases": [
-      "arm wrestling",
-      "wrestling"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -1638,10 +1582,7 @@
         "eye"
       ]
     ],
-    "Aliases": [
-      "loose",
-      "defeat"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -1681,10 +1622,7 @@
         "two"
       ]
     ],
-    "Aliases": [
-      "equal",
-      "same"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -1722,10 +1660,7 @@
         "p.bound up"
       ]
     ],
-    "Aliases": [
-      "10 days",
-      "ten days"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -1744,10 +1679,7 @@
         "p.bound up"
       ]
     ],
-    "Aliases": [
-      "soup ladle",
-      "spoon"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -1808,9 +1740,7 @@
         "p.horns"
       ]
     ],
-    "Aliases": [
-      "head"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -1888,9 +1818,7 @@
         "p.tool"
       ]
     ],
-    "Aliases": [
-      "tool"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -1940,9 +1868,7 @@
         "eye"
       ]
     ],
-    "Aliases": [
-      "real"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -1961,11 +1887,7 @@
         "p.by one's side"
       ]
     ],
-    "Aliases": [
-      "by the side",
-      "on the side",
-      "side"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -1984,12 +1906,7 @@
         "work (n.)"
       ]
     ],
-    "Aliases": [
-      "beam",
-      "steel",
-      "i beam",
-      "i-beam"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2052,9 +1969,7 @@
         "month"
       ]
     ],
-    "Aliases": [
-      "have"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2111,10 +2026,7 @@
         "p.wealth"
       ]
     ],
-    "Aliases": [
-      "wealth",
-      "money"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -2191,10 +2103,7 @@
         "sword"
       ]
     ],
-    "Aliases": [
-      "blade",
-      "knife"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2213,10 +2122,7 @@
         "sword"
       ]
     ],
-    "Aliases": [
-      "sword",
-      "knife"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2235,9 +2141,7 @@
         "sword"
       ]
     ],
-    "Aliases": [
-      "cut"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2281,9 +2185,7 @@
         "mouth"
       ]
     ],
-    "Aliases": [
-      "obvious"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2308,11 +2210,7 @@
         "eye"
       ]
     ],
-    "Aliases": [
-      "rule",
-      "rules",
-      "law"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2354,9 +2252,7 @@
         "fourth"
       ]
     ],
-    "Aliases": [
-      "spike"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2394,9 +2290,7 @@
         "fourth"
       ]
     ],
-    "Aliases": [
-      "little engine"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2419,9 +2313,7 @@
         "mouth"
       ]
     ],
-    "Aliases": [
-      "brother"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2473,11 +2365,7 @@
         "second"
       ]
     ],
-    "Aliases": [
-      "rocking chair",
-      "chair",
-      "hook"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2515,10 +2403,7 @@
         "child"
       ]
     ],
-    "Aliases": [
-      "baby",
-      "kid"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2537,9 +2422,7 @@
         "second"
       ]
     ],
-    "Aliases": [
-      "hole"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2614,13 +2497,7 @@
         "(-ed)"
       ]
     ],
-    "Aliases": [
-      "le",
-      "l",
-      "el",
-      "done",
-      "past"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2639,9 +2516,7 @@
         "woman"
       ]
     ],
-    "Aliases": [
-      "lady"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2679,10 +2554,7 @@
         "mouth"
       ]
     ],
-    "Aliases": [
-      "like",
-      "ru"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2701,10 +2573,7 @@
         "woman"
       ]
     ],
-    "Aliases": [
-      "mum",
-      "mom"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2740,9 +2609,7 @@
         "eye"
       ]
     ],
-    "Aliases": [
-      "piercing"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2761,9 +2628,7 @@
         "mouth"
       ]
     ],
-    "Aliases": [
-      "brother"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2807,10 +2672,7 @@
         "p.a drop of"
       ]
     ],
-    "Aliases": [
-      "little",
-      "mouse"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2829,9 +2691,7 @@
         "p.a drop of"
       ]
     ],
-    "Aliases": [
-      "little"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2880,10 +2740,7 @@
         "small"
       ]
     ],
-    "Aliases": [
-      "grand child",
-      "child"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2902,12 +2759,7 @@
         "large"
       ]
     ],
-    "Aliases": [
-      "big",
-      "huge",
-      "dog",
-      "labrador"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -2969,9 +2821,7 @@
         "month"
       ]
     ],
-    "Aliases": [
-      "much"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -3065,9 +2915,7 @@
         "month"
       ]
     ],
-    "Aliases": [
-      "name"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -3101,11 +2949,7 @@
         "month"
       ]
     ],
-    "Aliases": [
-      "gauze",
-      "hair net",
-      "net"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -3124,9 +2968,7 @@
         "factory"
       ]
     ],
-    "Aliases": [
-      "cliff"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -3210,9 +3052,7 @@
         "mouth"
       ]
     ],
-    "Aliases": [
-      "rock"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -3297,10 +3137,7 @@
         "small"
       ]
     ],
-    "Aliases": [
-      "candle",
-      "flame"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -3354,9 +3191,7 @@
         "youngster"
       ]
     ],
-    "Aliases": [
-      "reflection"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -3375,11 +3210,7 @@
         "large"
       ]
     ],
-    "Aliases": [
-      "dog",
-      "extremely",
-      "super"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -3429,9 +3260,7 @@
         "large"
       ]
     ],
-    "Aliases": [
-      "weird"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -3450,10 +3279,7 @@
         "stream"
       ]
     ],
-    "Aliases": [
-      "flow",
-      "river"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -3472,12 +3298,7 @@
         "stream"
       ]
     ],
-    "Aliases": [
-      "province",
-      "region",
-      "border",
-      "river"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -3548,9 +3369,7 @@
         "water"
       ]
     ],
-    "Aliases": [
-      "drop of water"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -3596,10 +3415,7 @@
         "p.a drop of"
       ]
     ],
-    "Aliases": [
-      "ask",
-      "request"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -3655,10 +3471,7 @@
         "water"
       ]
     ],
-    "Aliases": [
-      "tibet",
-      "highlands"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -3775,9 +3588,7 @@
         "work (n.)"
       ]
     ],
-    "Aliases": [
-      "river"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -4073,10 +3884,7 @@
         "soil"
       ]
     ],
-    "Aliases": [
-      "earth",
-      "ground"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -4238,10 +4046,7 @@
         "p.bricks"
       ]
     ],
-    "Aliases": [
-      "bricks",
-      "brick"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -4281,11 +4086,7 @@
         "ten"
       ]
     ],
-    "Aliases": [
-      "inch",
-      "glue",
-      "glued"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -4362,11 +4163,7 @@
         "soil"
       ]
     ],
-    "Aliases": [
-      "temple",
-      "shrine",
-      "monastery"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -4385,9 +4182,7 @@
         "fire"
       ]
     ],
-    "Aliases": [
-      "flame"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -4427,10 +4222,7 @@
         "fire"
       ]
     ],
-    "Aliases": [
-      "ash",
-      "lantern"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -4606,9 +4398,7 @@
         "rice field"
       ]
     ],
-    "Aliases": [
-      "inside"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -4743,10 +4533,7 @@
         "p.hood"
       ]
     ],
-    "Aliases": [
-      "hood",
-      "helmet"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -4768,9 +4555,7 @@
         "eye"
       ]
     ],
-    "Aliases": [
-      "risk"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -4859,9 +4644,7 @@
         "p.a drop of"
       ]
     ],
-    "Aliases": [
-      "orientate"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -4911,11 +4694,7 @@
         "small"
       ]
     ],
-    "Aliases": [
-      "esteem",
-      "value",
-      "revere"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -4934,10 +4713,7 @@
         "p.house"
       ]
     ],
-    "Aliases": [
-      "roof",
-      "house"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -5007,9 +4783,7 @@
         "youngster"
       ]
     ],
-    "Aliases": [
-      "finish"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -5053,10 +4827,7 @@
         "day"
       ]
     ],
-    "Aliases": [
-      "rooftop",
-      "rooftops"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -5105,10 +4876,7 @@
         "p.house"
       ]
     ],
-    "Aliases": [
-      "peace",
-      "chill"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -5248,10 +5016,7 @@
         "tree"
       ]
     ],
-    "Aliases": [
-      "wood",
-      "forest"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -5385,13 +5150,7 @@
         "tree"
       ]
     ],
-    "Aliases": [
-      "stupid",
-      "idiot",
-      "dim",
-      "dimwitted",
-      "dim witted"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -5460,10 +5219,7 @@
         "tree"
       ]
     ],
-    "Aliases": [
-      "each other",
-      "together"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -5482,10 +5238,7 @@
         "tree"
       ]
     ],
-    "Aliases": [
-      "book",
-      "block"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -5529,9 +5282,7 @@
         "tree"
       ]
     ],
-    "Aliases": [
-      "almost"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -5550,11 +5301,7 @@
         "tree"
       ]
     ],
-    "Aliases": [
-      "finally",
-      "at last",
-      "final"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -5651,10 +5398,7 @@
         "day"
       ]
     ],
-    "Aliases": [
-      "study",
-      "observe"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -5790,11 +5534,7 @@
         "p.flower"
       ]
     ],
-    "Aliases": [
-      "flower",
-      "grass",
-      "flowers"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -5937,10 +5677,7 @@
         "large"
       ]
     ],
-    "Aliases": [
-      "graveyard",
-      "grave"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -6037,9 +5774,7 @@
         "p.flower"
       ]
     ],
-    "Aliases": [
-      "plant"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -6083,10 +5818,7 @@
         "portent"
       ]
     ],
-    "Aliases": [
-      "sign",
-      "turtle"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -6124,11 +5856,7 @@
         "large"
       ]
     ],
-    "Aliases": [
-      "little dog",
-      "dog",
-      "chihuahua"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -6153,11 +5881,7 @@
         "p.a drop of"
       ]
     ],
-    "Aliases": [
-      "frankenpooch",
-      "franken",
-      "pooch"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -6251,9 +5975,7 @@
         "portent"
       ]
     ],
-    "Aliases": [
-      "general"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -6358,9 +6080,7 @@
         "p.a drop of"
       ]
     ],
-    "Aliases": [
-      "hot dog"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -6379,10 +6099,7 @@
         "p.chatterbox"
       ]
     ],
-    "Aliases": [
-      "chatterbox",
-      "chatter"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -6436,9 +6153,7 @@
         "p.a drop of"
       ]
     ],
-    "Aliases": [
-      "tool"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -6474,10 +6189,7 @@
         "p.a drop of"
       ]
     ],
-    "Aliases": [
-      "stink",
-      "smell"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -6670,9 +6382,7 @@
         "p.umbrella"
       ]
     ],
-    "Aliases": [
-      "umbrella"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -6710,11 +6420,7 @@
         "p.crutches"
       ]
     ],
-    "Aliases": [
-      "crutches",
-      "chrutch",
-      "arrow"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -6733,9 +6439,7 @@
         "p.crutches"
       ]
     ],
-    "Aliases": [
-      "arrow"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -6800,9 +6504,7 @@
         "p.meeting"
       ]
     ],
-    "Aliases": [
-      "meeting"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -6824,9 +6526,7 @@
         "p.umbrella"
       ]
     ],
-    "Aliases": [
-      "fit"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -6899,9 +6599,7 @@
         "king"
       ]
     ],
-    "Aliases": [
-      "ball"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -7047,9 +6745,7 @@
         "p.a drop of"
       ]
     ],
-    "Aliases": [
-      "loony"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -7124,9 +6820,7 @@
         "mouth"
       ]
     ],
-    "Aliases": [
-      "offer"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -7145,9 +6839,7 @@
         "king"
       ]
     ],
-    "Aliases": [
-      "total"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -7237,9 +6929,7 @@
         "p.umbrella"
       ]
     ],
-    "Aliases": [
-      "metal"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -7534,11 +7224,7 @@
         "p.road"
       ]
     ],
-    "Aliases": [
-      "road",
-      "way",
-      "path"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -7947,9 +7633,7 @@
         "p.butcher"
       ]
     ],
-    "Aliases": [
-      "butcher"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -7971,9 +7655,7 @@
         "p.butcher"
       ]
     ],
-    "Aliases": [
-      "front"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -8017,10 +7699,7 @@
         "p.slaughterhouse"
       ]
     ],
-    "Aliases": [
-      "slaughterhouse",
-      "slaughter"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -8091,10 +7770,7 @@
         "p.walking legs"
       ]
     ],
-    "Aliases": [
-      "walking legs",
-      "walking"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -8157,9 +7833,7 @@
         "mouth"
       ]
     ],
-    "Aliases": [
-      "every"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -8362,12 +8036,7 @@
         "p.walking legs"
       ]
     ],
-    "Aliases": [
-      "LA",
-      "la",
-      "los angeles",
-      "L A"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -8436,9 +8105,7 @@
         "p.crown"
       ]
     ],
-    "Aliases": [
-      "crown"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -8457,10 +8124,7 @@
         "how many?"
       ]
     ],
-    "Aliases": [
-      "air head",
-      "air"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -8504,9 +8168,7 @@
         "car"
       ]
     ],
-    "Aliases": [
-      "charriot"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -8572,10 +8234,7 @@
         "p.top hat"
       ]
     ],
-    "Aliases": [
-      "hat",
-      "cylinder"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -8594,10 +8253,7 @@
         "p.whirlwind"
       ]
     ],
-    "Aliases": [
-      "tornado",
-      "whirlwind"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -8701,9 +8357,7 @@
         "p.hood"
       ]
     ],
-    "Aliases": [
-      "big"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -8918,9 +8572,7 @@
         "p.hood"
       ]
     ],
-    "Aliases": [
-      "view"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -9054,11 +8706,7 @@
         "p.lidded crock"
       ]
     ],
-    "Aliases": [
-      "lidded crock",
-      "crock",
-      "pot"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -9137,9 +8785,7 @@
         "soldier"
       ]
     ],
-    "Aliases": [
-      "solid"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -9158,10 +8804,7 @@
         "p.schoolhouse"
       ]
     ],
-    "Aliases": [
-      "schoolhouse",
-      "school"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -9205,10 +8848,7 @@
         "p.schoolhouse"
       ]
     ],
-    "Aliases": [
-      "sense",
-      "feel"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -9227,10 +8867,7 @@
         "p.taskmaster"
       ]
     ],
-    "Aliases": [
-      "taskmaster",
-      "task master"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -9330,9 +8967,7 @@
         "mouth"
       ]
     ],
-    "Aliases": [
-      "deliberate"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -9385,9 +9020,7 @@
         "p.taskmaster"
       ]
     ],
-    "Aliases": [
-      "revere"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -9441,10 +9074,7 @@
         "one"
       ]
     ],
-    "Aliases": [
-      "word",
-      "words"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -9983,9 +9613,7 @@
         "p.arrow"
       ]
     ],
-    "Aliases": [
-      "arrow"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -10216,9 +9844,7 @@
         "p.thanksgiving"
       ]
     ],
-    "Aliases": [
-      "thanksgiving"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -10265,9 +9891,7 @@
         "p.parade"
       ]
     ],
-    "Aliases": [
-      "parade"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -10319,11 +9943,7 @@
         "sword"
       ]
     ],
-    "Aliases": [
-      "change into",
-      "change",
-      "turn"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -10431,10 +10051,7 @@
         "p.march"
       ]
     ],
-    "Aliases": [
-      "march",
-      "parade"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -10494,9 +10111,7 @@
         "p.march"
       ]
     ],
-    "Aliases": [
-      "salt"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -10515,9 +10130,7 @@
         "p.float"
       ]
     ],
-    "Aliases": [
-      "float"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -10724,9 +10337,7 @@
         "stop (v.)"
       ]
     ],
-    "Aliases": [
-      "stop"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -10751,10 +10362,7 @@
         "stop (v.)"
       ]
     ],
-    "Aliases": [
-      "step",
-      "foot step"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -10977,9 +10585,7 @@
         "one"
       ]
     ],
-    "Aliases": [
-      "true"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -11063,10 +10669,7 @@
         "p.mending"
       ]
     ],
-    "Aliases": [
-      "mend",
-      "mending"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -11093,9 +10696,7 @@
         "p.mending"
       ]
     ],
-    "Aliases": [
-      "settle"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -11359,9 +10960,7 @@
         "p.stretch"
       ]
     ],
-    "Aliases": [
-      "stretch"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -11382,10 +10981,7 @@
         "p.road"
       ]
     ],
-    "Aliases": [
-      "extend",
-      "stretch out"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -11446,9 +11042,7 @@
         "p.brush"
       ]
     ],
-    "Aliases": [
-      "brush"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -11488,9 +11082,7 @@
         "p.zoo"
       ]
     ],
-    "Aliases": [
-      "zoo"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -11551,9 +11143,7 @@
         "p.top hat"
       ]
     ],
-    "Aliases": [
-      "clothes"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -11651,9 +11241,7 @@
         "mouth"
       ]
     ],
-    "Aliases": [
-      "grieving"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -11797,9 +11385,7 @@
         "p.crown"
       ]
     ],
-    "Aliases": [
-      "farming"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -11867,9 +11453,7 @@
         "sword"
       ]
     ],
-    "Aliases": [
-      "handsome"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -12061,10 +11645,7 @@
         "p.white towel"
       ]
     ],
-    "Aliases": [
-      "white towel",
-      "towel"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -12156,9 +11737,7 @@
         "p.apron"
       ]
     ],
-    "Aliases": [
-      "apron"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -12243,9 +11822,7 @@
         "p.belt"
       ]
     ],
-    "Aliases": [
-      "belt"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -12264,12 +11841,7 @@
         "p.thorn"
       ]
     ],
-    "Aliases": [
-      "thorn",
-      "thorns",
-      "spike",
-      "spikes"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -12434,9 +12006,7 @@
         "p.ice"
       ]
     ],
-    "Aliases": [
-      "ice"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -12637,10 +12207,7 @@
         "one"
       ]
     ],
-    "Aliases": [
-      "heaven",
-      "sky"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -12665,10 +12232,7 @@
         "mouth"
       ]
     ],
-    "Aliases": [
-      "mister wu",
-      "mister"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -12773,9 +12337,7 @@
         "large"
       ]
     ],
-    "Aliases": [
-      "die"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -12800,9 +12362,7 @@
         "p.a drop of"
       ]
     ],
-    "Aliases": [
-      "act"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -12883,11 +12443,7 @@
         "standing up"
       ]
     ],
-    "Aliases": [
-      "stand",
-      "standing",
-      "vase"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -13009,9 +12565,7 @@
         "p.crown"
       ]
     ],
-    "Aliases": [
-      "ruler"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -13036,11 +12590,7 @@
         "soil"
       ]
     ],
-    "Aliases": [
-      "juvenile",
-      "youth",
-      "kid"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -13081,9 +12631,7 @@
         "p.antique"
       ]
     ],
-    "Aliases": [
-      "antique"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -13133,9 +12681,7 @@
         "ancient spoon"
       ]
     ],
-    "Aliases": [
-      "spoon"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -13197,9 +12743,7 @@
         "ancient spoon"
       ]
     ],
-    "Aliases": [
-      "spoons"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -13306,10 +12850,7 @@
         "stop (v.)"
       ]
     ],
-    "Aliases": [
-      "these",
-      "this"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -13418,9 +12959,7 @@
         "p.lifeguard"
       ]
     ],
-    "Aliases": [
-      "lifeguard"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -13492,11 +13031,7 @@
         "p.reclining"
       ]
     ],
-    "Aliases": [
-      "recline",
-      "lie",
-      "lean"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -13521,10 +13056,7 @@
         "p.reclining"
       ]
     ],
-    "Aliases": [
-      "all",
-      "each"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -13651,10 +13183,7 @@
         "p.reclining"
       ]
     ],
-    "Aliases": [
-      "duplicate",
-      "copy"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -13699,11 +13228,7 @@
         "person"
       ]
     ],
-    "Aliases": [
-      "lack",
-      "yawn",
-      "tired"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -13819,9 +13344,7 @@
         "water"
       ]
     ],
-    "Aliases": [
-      "second"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -13955,10 +13478,7 @@
         "p.muzzle"
       ]
     ],
-    "Aliases": [
-      "muzzle",
-      "vase"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -14110,11 +13630,7 @@
         "youngster"
       ]
     ],
-    "Aliases": [
-      "unexpected",
-      "suddenly",
-      "sudden"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -14199,10 +13715,7 @@
         "second"
       ]
     ],
-    "Aliases": [
-      "die",
-      "decease"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -14298,9 +13811,7 @@
         "p.top hat"
       ]
     ],
-    "Aliases": [
-      "compass"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -14350,9 +13861,7 @@
         "p.taskmaster"
       ]
     ],
-    "Aliases": [
-      "let go"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -14448,9 +13957,7 @@
         "youngster"
       ]
     ],
-    "Aliases": [
-      "devil"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -14557,10 +14064,7 @@
         "p.horns"
       ]
     ],
-    "Aliases": [
-      "former",
-      "ex"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -14882,13 +14386,7 @@
         "self"
       ]
     ],
-    "Aliases": [
-      "himself",
-      "myself",
-      "itself",
-      "yourself",
-      "herself"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -15005,10 +14503,7 @@
         "p.bound up"
       ]
     ],
-    "Aliases": [
-      "warp",
-      "bao"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -15113,10 +14608,7 @@
         "p.sow"
       ]
     ],
-    "Aliases": [
-      "sow",
-      "pig"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -15173,12 +14665,7 @@
         "p.piglets"
       ]
     ],
-    "Aliases": [
-      "piglets",
-      "piglet",
-      "pig",
-      "piggies"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -15410,9 +14897,7 @@
         "p.wool"
       ]
     ],
-    "Aliases": [
-      "wool"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -15438,11 +14923,7 @@
         "p.wool"
       ]
     ],
-    "Aliases": [
-      "cha",
-      "fall short",
-      "miss"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -15525,9 +15006,7 @@
         "p.turkey"
       ]
     ],
-    "Aliases": [
-      "turkey"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -15678,11 +15157,7 @@
         "feathers"
       ]
     ],
-    "Aliases": [
-      "feather",
-      "wing",
-      "wings"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -15744,12 +15219,7 @@
         "p.pent in"
       ]
     ],
-    "Aliases": [
-      "pent in",
-      "trap",
-      "locked",
-      "pen"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -15768,9 +15238,7 @@
         "tree"
       ]
     ],
-    "Aliases": [
-      "trap"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -15870,10 +15338,7 @@
         "large"
       ]
     ],
-    "Aliases": [
-      "cause",
-      "reason"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -15943,9 +15408,7 @@
         "mouth"
       ]
     ],
-    "Aliases": [
-      "return"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -15990,9 +15453,7 @@
         "p.house"
       ]
     ],
-    "Aliases": [
-      "cave"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -16066,11 +15527,7 @@
         "car"
       ]
     ],
-    "Aliases": [
-      "ware house",
-      "cave",
-      "garage"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -16175,9 +15632,7 @@
         "factory"
       ]
     ],
-    "Aliases": [
-      "sticky"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -16202,10 +15657,7 @@
         "factory"
       ]
     ],
-    "Aliases": [
-      "house",
-      "hut"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -16496,9 +15948,7 @@
         "eye"
       ]
     ],
-    "Aliases": [
-      "breathe"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -16561,9 +16011,7 @@
         "p.march"
       ]
     ],
-    "Aliases": [
-      "feeling"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -16790,10 +16238,7 @@
         "heart"
       ]
     ],
-    "Aliases": [
-      "certain",
-      "make sure"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -16924,9 +16369,7 @@
         "hand"
       ]
     ],
-    "Aliases": [
-      "me"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -16945,10 +16388,7 @@
         "p.fingers"
       ]
     ],
-    "Aliases": [
-      "fingers",
-      "finger"
-    ],
+    "Aliases": [],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -17339,10 +16779,7 @@
         "p.fingers"
       ]
     ],
-    "Aliases": [
-      "hold",
-      "squeeze"
-    ],
+    "Aliases": [],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
