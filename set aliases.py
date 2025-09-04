@@ -16,6 +16,10 @@ print(f"📂 Backup created: {backup_filename}")
 with open(filename, "r", encoding="utf-8") as f:
     data = json.load(f)
 
+
+Sequenz_limit = 1347 # Limit up to which i aliases are added
+
+
 # Load progress
 start_index = 0
 if os.path.exists(progress_file):
@@ -27,14 +31,14 @@ if os.path.exists(progress_file):
 # Step 1: Collect all component references
 used_components = set()
 for entry in data.values():
-    for comp_group in entry.get("components", []):
+    for comp_group in entry.get("primary_components", []):
         for comp in comp_group:
             used_components.add(comp)
 
 # Step 2: Only check elements that appear in components elsewhere
 keys = list(data.keys())
 i = start_index
-while i < len(keys):
+while i < len(keys) and i<Sequenz_limit:
     key = keys[i]
     entry = data[key]
 

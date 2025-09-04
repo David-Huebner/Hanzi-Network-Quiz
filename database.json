@@ -1014,7 +1014,8 @@
     ],
     "Aliases": [
       "drop",
-      "a drop"
+      "a drop",
+      "a drop of"
     ],
     "isHanzi": false,
     "isMarked": false,
@@ -1046,7 +1047,8 @@
     ],
     "Aliases": [
       "stick",
-      "cane"
+      "cane",
+      "walking stick"
     ],
     "isHanzi": false,
     "isMarked": false,
@@ -1694,7 +1696,9 @@
         "day"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "mist"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -1820,7 +1824,8 @@
       ]
     ],
     "Aliases": [
-      "legs"
+      "legs",
+      "animal legs"
     ],
     "isHanzi": false,
     "isMarked": false,
@@ -1851,7 +1856,8 @@
       ]
     ],
     "Aliases": [
-      "bound"
+      "bound",
+      "bound up"
     ],
     "isHanzi": false,
     "isMarked": false,
@@ -1881,7 +1887,9 @@
         "particle:horns"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "horns"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -2988,7 +2996,8 @@
     "Aliases": [
       "by the side",
       "on the side",
-      "side"
+      "side",
+      "by one's side"
     ],
     "isHanzi": false,
     "isMarked": false,
@@ -13296,7 +13305,8 @@
     ],
     "Aliases": [
       "hat",
-      "cylinder"
+      "cylinder",
+      "top hat"
     ],
     "isHanzi": false,
     "isMarked": false,
@@ -20705,7 +20715,8 @@
     "Aliases": [
       "recline",
       "lie",
-      "lean"
+      "lean",
+      "reclining"
     ],
     "isHanzi": false,
     "isMarked": false,
@@ -26971,7 +26982,11 @@
         "one"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "drive",
+      "two hands",
+      "hands"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -27210,7 +27225,9 @@
         "sword"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "execute"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -27397,7 +27414,12 @@
         "child"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "deposit",
+      "safe keeping",
+      "safe",
+      "save"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -27460,7 +27482,9 @@
         "only then"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "fist"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -27520,7 +27544,10 @@
         "only then"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "extend your hand",
+      "extend"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -27629,7 +27656,11 @@
   "particle:tucked under the arm": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "tucked under the arm",
+      "tucked",
+      "tuck"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -27658,7 +27689,9 @@
         "particle:tucked under the arm"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "historian"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -27691,7 +27724,9 @@
         "particle:tucked under the arm"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "more"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -27780,7 +27815,9 @@
         "again"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "hand"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -27904,7 +27941,10 @@
         "again"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "han chinese",
+      "chinese"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -28084,7 +28124,11 @@
         "particle:a drop of"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "right",
+      "correct",
+      "true"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -28163,7 +28207,9 @@
         "particle:turkey"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "hard"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -28237,7 +28283,9 @@
         "again"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "missile"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -28438,7 +28486,9 @@
         "ten"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "branch"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -28732,7 +28782,10 @@
   "particle:drag": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "pull",
+      "drag"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -29018,7 +29071,9 @@
         "claw (n.)"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "claw"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -29079,7 +29134,9 @@
         "tree"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "pick"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -29153,7 +29210,11 @@
         "claw (n.)"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "birdhouse",
+      "bird house",
+      "bird"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -29321,7 +29382,9 @@
   "particle:elbow": {
     "hanzi": "particle:厶",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "elbow"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -29419,7 +29482,9 @@
         "mouth"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "platform"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -29534,7 +29599,10 @@
         "soil"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "walk",
+      "leave"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -29619,7 +29687,9 @@
         "particle:elbow"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "wall"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -29872,7 +29942,10 @@
         "particle:a drop of"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "infant",
+      "baby"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -29911,7 +29984,9 @@
         "youngster"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "suffice"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -29964,7 +30039,9 @@
         "particle:elbow"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "educate"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -30015,7 +30092,11 @@
         "particle:infant"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "moses",
+      "baby",
+      "baby moses"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -30182,7 +30263,9 @@
         "particle:bound up"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "cast"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -30321,7 +30404,9 @@
         "mountain"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "exit"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -30468,7 +30553,9 @@
         "enter"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "enter"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -30497,7 +30584,9 @@
         "sword"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "part"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -30930,7 +31019,11 @@
         "particle:house"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "outhouse",
+      "out",
+      "house"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -31097,7 +31190,9 @@
         "soil"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "room"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -31141,7 +31236,10 @@
         "again"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "shell",
+      "cover"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -31187,7 +31285,9 @@
         "again"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "wave"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -31415,7 +31515,9 @@
         "malicious"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "evil"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -31444,7 +31546,9 @@
         "malicious"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "line"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -31517,7 +31621,9 @@
         "malicious"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "die"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -31637,7 +31743,10 @@
         "again"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "pick up",
+      "hold"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -31893,7 +32002,10 @@
         "day"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "drawn",
+      "slow"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -32074,7 +32186,12 @@
         "large"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "rules",
+      "rule",
+      "rule",
+      "rules"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -32115,7 +32232,9 @@
         "day"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "replacement"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -32156,7 +32275,9 @@
         "particle:a drop of"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "loose"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -32286,7 +32407,10 @@
         "feudal official"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "feudal",
+      "official"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -32536,7 +32660,9 @@
         "mouth"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "different"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -32713,7 +32839,9 @@
         "power"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "manager"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -32828,7 +32956,9 @@
         "power"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "act"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -32932,7 +33062,9 @@
         "power"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "give"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -33058,7 +33190,9 @@
         "power"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "task"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -33131,7 +33265,12 @@
         "line of business"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "line",
+      "queue",
+      "business",
+      "bank"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -33416,7 +33555,12 @@
         "one"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "german",
+      "germany",
+      "commandments",
+      "10 commandments"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -33495,7 +33639,11 @@
         "standing grain"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "wild rice",
+      "rice",
+      "grain"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -33828,7 +33976,9 @@
         "sword"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "profit"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -33859,7 +34009,9 @@
         "day"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "fragrance"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -34168,7 +34320,10 @@
         "rice"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "losse",
+      "loose"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -34271,7 +34426,9 @@
         "rice"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "kind"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -34307,7 +34464,9 @@
         "one"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "lai"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -34339,7 +34498,9 @@
         "rice"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "bride"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -34789,7 +34950,10 @@
     ],
     "Aliases": [
       "umbrella",
-      "darren"
+      "darren",
+      "ren",
+      "darren",
+      "guy"
     ],
     "isHanzi": true,
     "isMarked": false,
@@ -34992,7 +35156,10 @@
         "small"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "you",
+      "ni"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -36028,7 +36195,9 @@
         "mouth"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "guard"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -36124,7 +36293,9 @@
         "person"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "pay"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -36185,7 +36356,10 @@
         "factory"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "office",
+      "government"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -36296,7 +36470,10 @@
         "particle:arrow"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "substitute",
+      "cannon fodder"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -36369,7 +36546,9 @@
         "person"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "change"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -36597,7 +36776,10 @@
         "mouth"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "what",
+      "confused"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -36677,7 +36859,11 @@
         "one"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "inches",
+      "100",
+      "hundert"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -36747,7 +36933,10 @@
         "particle:bound up"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "time",
+      "long ago"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -36778,7 +36967,9 @@
         "towel"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "inside"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -37163,7 +37354,9 @@
         "person"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "conveyor belt"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -37192,7 +37385,9 @@
         "person"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "crowd"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -37226,7 +37421,9 @@
         "person"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "seat"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -37360,7 +37557,10 @@
         "second"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "sleep",
+      "siesta"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -37474,7 +37674,9 @@
         "particle:a drop of"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "porter"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -37555,7 +37757,9 @@
         "particle:stretch"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "court"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -37742,7 +37946,10 @@
   "particle:beret": {
     "hanzi": "particle:乛",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "beret",
+      "hat"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -38016,7 +38223,9 @@
   "particle:plow": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "plow"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -38047,7 +38256,10 @@
         "particle:a drop of"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "means",
+      "plow"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -38176,7 +38388,10 @@
         "particle:horns"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "add",
+      "puzzle"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -38321,7 +38536,10 @@
         "particle:house"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "greenhouse",
+      "green"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -38396,7 +38614,10 @@
         "particle:greenhouse"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "labor",
+      "work"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -38625,7 +38846,9 @@
         "particle:reclining"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "banner"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -38810,7 +39033,9 @@
         "particle:sow"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "knot"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -39016,7 +39241,9 @@
         "corpse"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "flag"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -39167,7 +39394,9 @@
         "corpse"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "habitat"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -39281,7 +39510,9 @@
         "mouth"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "residence"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -39594,7 +39825,9 @@
         "corpse"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "measure"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -39847,7 +40080,10 @@
         "small"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "show",
+      "altar"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -40128,7 +40364,9 @@
         "small"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "forbid"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -40342,7 +40580,9 @@
         "small"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "sacrifice"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -40397,7 +40637,9 @@
         "particle:house"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "inspect"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -40516,7 +40758,10 @@
         "rice field"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "why",
+      "for what"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -40617,7 +40862,10 @@
         "rice field"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "first",
+      "root"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -40682,7 +40930,9 @@
         "particle:walking stick"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "monkey"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -41009,7 +41259,11 @@
         "catty"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "axe",
+      "x",
+      "tomahawk"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -41142,7 +41396,11 @@
         "catty"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "hugh",
+      "destroy",
+      "hack"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -41293,7 +41551,9 @@
         "catty"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "discount"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -41408,7 +41668,9 @@
         "catty"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "punish"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -41511,7 +41773,10 @@
         "for the first time"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "first",
+      "saw"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -41629,7 +41894,9 @@
   "particle:broom": {
     "hanzi": "particle:彐",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "broom"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -41822,7 +42089,9 @@
         "heart"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "worried"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -41856,7 +42125,9 @@
         "small"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "work"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -41929,7 +42200,9 @@
         "particle:broom"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "record"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -42020,7 +42293,9 @@
   "particle:rake": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "rake"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -42166,7 +42441,9 @@
         "factory"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "dynasty"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -42258,7 +42535,9 @@
         "factory"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "healthy"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -42291,7 +42570,11 @@
         "particle:broom"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "slave driver",
+      "driver",
+      "geisel"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -42361,7 +42644,10 @@
         "mouth"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "king",
+      "queen"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -42486,7 +42772,9 @@
         "and"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "also"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -42515,7 +42803,9 @@
         "rain"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "need"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -42589,7 +42879,9 @@
         "and"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "prospector"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -42694,7 +42986,9 @@
         "rice field"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "bend"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -42724,7 +43018,11 @@
         "particle:ice"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "dipper",
+      "star sign",
+      "star"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -42840,7 +43138,9 @@
         "one"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "salad"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -42872,7 +43172,9 @@
         "particle:salad"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "past"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -43040,7 +43342,9 @@
         "month"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "distribute"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -43130,7 +43434,9 @@
         "ten"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "20"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -43160,7 +43466,11 @@
         "twenty"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "caverns",
+      "caves",
+      "cave"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -43244,7 +43554,10 @@
         "factory"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "degree",
+      "angle"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -43518,7 +43831,9 @@
   "particle:quarter": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "quarter"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -43635,7 +43950,9 @@
         "slice (n.)"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "slice"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -43706,7 +44023,11 @@
         "particle:a drop of"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "zorro",
+      "sign",
+      "z"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -43735,7 +44056,9 @@
         "of"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "tired"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -43810,7 +44133,10 @@
         "particle:a drop of"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "not",
+      "bu"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -44113,7 +44439,9 @@
         "particle:a drop of"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "arrow"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -44390,7 +44718,9 @@
         "spear (n.)"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "spear"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -44492,7 +44822,9 @@
         "spear (n.)"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "ceremonial spear"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -44713,7 +45045,11 @@
   "particle:fencing foil": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "fencing foil",
+      "foil",
+      "fencing"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -44746,7 +45082,11 @@
         "particle:reclining"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "magnifiying glass",
+      "glass",
+      "about"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -44786,7 +45126,9 @@
         "again"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "firm"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -44880,7 +45222,9 @@
         "bow (n.) (weapon)"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "bow"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -45051,7 +45395,9 @@
         "particle:horns"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "list"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -45129,7 +45475,10 @@
         "bow (n.) (weapon)"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "dollar sign",
+      "dollar"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -45240,7 +45589,9 @@
         "particle:horns"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "brother"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -45313,7 +45664,10 @@
   "particle:snare": {
     "hanzi": "particle:丂",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "snare",
+      "trap"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -45465,7 +45819,9 @@
         "particle:a drop of"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "shot"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -45645,7 +46001,9 @@
         "soil"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "old"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -45674,7 +46032,10 @@
   "particle:slingshot": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "slingshot",
+      "sling"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -45710,7 +46071,9 @@
         "particle:slingshot"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "exam"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -45799,7 +46162,10 @@
   "particle:pointed tail": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "tail",
+      "pointed tail"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -45963,7 +46329,9 @@
         "child"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "piety"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -46208,7 +46576,11 @@
   "particle:maestro": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "meastro",
+      "star",
+      "maestro"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -46559,7 +46931,10 @@
         "mouth"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "leg",
+      "shin"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -46840,7 +47215,9 @@
         "month"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "bones"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -46902,7 +47279,12 @@
   "particle:pinnacle": {
     "hanzi": "particle:⻖",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "pinncale",
+      "hill",
+      "top",
+      "pinnacle"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -46937,7 +47319,9 @@
         "particle:pinnacle"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "a"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -47103,7 +47487,9 @@
         "month"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "dark"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -47786,7 +48172,11 @@
         "particle:crown"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "paper punch",
+      "paper",
+      "punch"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -47936,7 +48326,11 @@
         "one"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "troop",
+      "soldier",
+      "cataphract"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -47968,7 +48362,10 @@
   "particle:thread": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "thread",
+      "string"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -48435,7 +48832,9 @@
         "particle:a drop of"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "appointment"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -48588,7 +48987,9 @@
         "person"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "spool"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -48850,7 +49251,9 @@
   "particle:cocoon": {
     "hanzi": "particle:幺",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "cocoon"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -48880,7 +49283,9 @@
         "small"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "floss"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -49002,7 +49407,11 @@
   "particle:stamp": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "postage",
+      "stamp",
+      "pos"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -49037,7 +49446,11 @@
         "particle:stamp"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "leave",
+      "pull",
+      "retreat"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -49255,7 +49668,10 @@
         "particle:stamp"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "letter opener",
+      "letter"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -49329,7 +49745,9 @@
         "rice field"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "stay"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -49483,7 +49901,10 @@
   "particle:chop": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "chop",
+      "stamp"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -49577,7 +49998,9 @@
         "particle:meeting"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "order"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -49772,7 +50195,12 @@
         "particle:chop"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "sealing wax",
+      "seal",
+      "wax",
+      "chop-rack"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -49918,7 +50346,11 @@
   "particle:fingerprint": {
     "hanzi": "particle:㔾",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "fingerprints",
+      "fingerprint",
+      "print"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -49948,7 +50380,11 @@
         "person"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "house",
+      "save",
+      "safe"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -50097,7 +50533,9 @@
         "factory"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "dangerous"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -50170,7 +50608,10 @@
   "particle:staples": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "staples",
+      "staple"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -50226,7 +50667,12 @@
   "particle:whiskey bottle": {
     "hanzi": "particle:酉",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "whiskey",
+      "jiu",
+      "alcohole",
+      "whiskey bottle"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -50317,7 +50763,9 @@
         "particle:whiskey bottle"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "chief"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -50468,7 +50916,10 @@
         "beans"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "bean",
+      "table"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -50593,7 +51044,9 @@
         "soldier"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "drum"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -50696,7 +51149,9 @@
         "beans"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "joy"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -50768,7 +51223,10 @@
   "particle:dish": {
     "hanzi": "particle:皿",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "dish",
+      "plate"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -50899,7 +51357,9 @@
         "particle:reclining"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "camera"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -51040,7 +51500,9 @@
   "particle:silver": {
     "hanzi": "particle:艮",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "silver"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -51383,7 +51845,12 @@
         "particle:a drop of"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "quality",
+      "silverware",
+      "halo",
+      "holy"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -51806,7 +52273,10 @@
   "particle:waitress": {
     "hanzi": "particle:旡",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "waitress",
+      "waiter"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -51930,7 +52400,9 @@
         "even"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "flat"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -52036,7 +52508,10 @@
         "even"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "o",
+      "la"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -52097,7 +52572,10 @@
   "particle:sheaf": {
     "hanzi": "particle:乂",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "sheaf",
+      "wheat"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -52133,7 +52611,11 @@
         "particle:sheaf"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "hope",
+      "hopes",
+      "hoping"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -52226,7 +52708,9 @@
         "tree"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "murder"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -52360,7 +52844,10 @@
         "particle:hood"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "ridge",
+      "top"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -52458,7 +52945,10 @@
   "particle:pit": {
     "hanzi": "particle:凵",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "pit",
+      "hole"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -52602,7 +53092,11 @@
         "cruel"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "barbarossa",
+      "fagin",
+      "villain"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -52715,7 +53209,10 @@
         "towel"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "leave",
+      "go"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -52817,7 +53314,9 @@
         "particle:sheaf"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "righteous"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -52962,7 +53461,11 @@
         "ten"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "pepper",
+      "chilly",
+      "spicy"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -53073,7 +53576,11 @@
         "standing up"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "hot sauce",
+      "sauce",
+      "against"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -53234,7 +53741,10 @@
         "small"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "relative",
+      "sibling"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -53396,7 +53906,10 @@
         "standing up"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "fortune",
+      "lucky"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -53428,7 +53941,10 @@
   "particle:cornucopia": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "cornucopia",
+      "horn"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -53521,7 +54037,10 @@
         "particle:elbow"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "hog",
+      "pig"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -53824,7 +54343,10 @@
   "particle:wire mesh": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "wire",
+      "wire mesh"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -53856,7 +54378,10 @@
         "particle:chatterbox"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "aid",
+      "help"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -53940,7 +54465,11 @@
         "particle:house"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "hamster",
+      "cage",
+      "hamster cage"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -54049,7 +54578,9 @@
   "particle:grow up": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "grow up"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -54185,7 +54716,10 @@
         "month"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "telescope",
+      "lens"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -54526,7 +55060,10 @@
         "eye"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "responsible",
+      "job"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -54638,7 +55175,9 @@
         "particle:a drop of"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "live"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -54839,7 +55378,9 @@
     ],
     "Aliases": [
       "bushes",
-      "bush"
+      "bush",
+      "bush",
+      "bushes"
     ],
     "isHanzi": true,
     "isMarked": false,
@@ -54871,7 +55412,9 @@
         "plentiful"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "harm"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -54983,7 +55526,13 @@
         "tanned hide"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "thorns",
+      "bushes",
+      "bush",
+      "briar",
+      "briarspatch"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -55080,7 +55629,9 @@
   "particle:bonsai": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "bonsai"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -55111,7 +55662,9 @@
         "day"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "spring"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -55175,7 +55728,10 @@
   "particle:cornstalk": {
     "hanzi": "particle:",
     "components_backup": [],
-    "Aliases": [],
+    "Aliases": [
+      "corn",
+      "cornstalk"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -55205,7 +55761,9 @@
         "particle:bonsai"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "offer"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -55279,7 +55837,9 @@
         "mountain"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "beat"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -55353,7 +55913,9 @@
         "particle:chop"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "special"
+    ],
     "isHanzi": true,
     "isMarked": false,
     "dueIn": 0,
@@ -55468,7 +56030,9 @@
         "particle:spinach"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "spinach"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -55735,7 +56299,9 @@
         "particle:silage"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "silage"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -57360,7 +57926,9 @@
         "particle:key"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "key"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -57576,7 +58144,9 @@
         "particle:guillotine"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "guillotine"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -58690,7 +59260,9 @@
         "particle:sickness"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "sickness"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -59022,7 +59594,9 @@
         "particle:box"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "box"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -59239,7 +59813,9 @@
         "particle:stamp collection"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "stamp collection"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -59344,7 +59920,9 @@
         "particle:teepee"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "teepee"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -59703,7 +60281,9 @@
         "particle:rooster tail"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "rooster tail"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -60091,7 +60671,9 @@
         "particle:cocktail"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "cocktail"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -60669,7 +61251,9 @@
         "particle:sparkler"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "sparkler"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -60862,7 +61446,9 @@
         "particle:victorian lady"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "victorian lady"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -61745,7 +62331,9 @@
         "particle:purse"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "purse"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -62201,7 +62789,9 @@
         "particle:side by side"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "side by side"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -63180,7 +63770,9 @@
         "particle:tome"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "tome"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -63696,7 +64288,9 @@
         "particle:calling card"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "calling card"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -64097,7 +64691,9 @@
         "particle:gummed label"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "gummed label"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -64283,7 +64879,9 @@
         "particle:city walls"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "city walls"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -64550,7 +65148,9 @@
         "particle:staple gun"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "staple gun"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -64706,7 +65306,9 @@
         "particle:clothes hanger"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "clothes hanger"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -64985,7 +65587,9 @@
         "particle:belch"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "belch"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -65430,7 +66034,9 @@
         "particle:braces"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "braces"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -65916,7 +66522,9 @@
         "particle:civil war"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "civil war"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -66289,7 +66897,9 @@
         "particle:droppings"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "droppings"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -66644,7 +67254,9 @@
         "particle:fur ball"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "fur ball"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -66758,7 +67370,9 @@
         "particle:barrette"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "barrette"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -67091,7 +67705,9 @@
         "particle:birdman"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "birdman"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -67158,7 +67774,9 @@
         "particle:owl"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "owl"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -67349,7 +67967,9 @@
         "particle:hootenanny"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "hootenanny"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -67991,7 +68611,9 @@
         "particle:talking cricket"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "talking cricket"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -68064,7 +68686,9 @@
         "particle:tin can"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "tin can"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -68140,7 +68764,9 @@
         "particle:can opener"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "can opener"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -70223,7 +70849,9 @@
         "particle:razor wire"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "razor wire"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -70572,7 +71200,9 @@
         "particle:gps"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "gps"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -70683,7 +71313,9 @@
         "particle:hang glider"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "hang glider"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -79807,7 +80439,9 @@
         "particle:snitch"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "snitch"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -80450,7 +81084,9 @@
         "particle:disneyland"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "disneyland"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -80640,7 +81276,9 @@
         "particle:crochet needles"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "crochet needles"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -80734,7 +81372,9 @@
         "particle:family tree"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "family tree"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -85553,7 +86193,9 @@
         "particle:magellan"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "magellan"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -86549,7 +87191,9 @@
         "particle:hog-tied"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "hog-tied"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -86683,7 +87327,9 @@
         "particle:flophouse"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "flophouse"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -87729,7 +88375,9 @@
         "particle:headdress"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "headdress"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -87855,7 +88503,9 @@
         "particle:dog kennel"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "dog kennel"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -90747,7 +91397,9 @@
         "particle:miser"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "miser"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -92698,7 +93350,9 @@
         "particle:mr. hyde"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "mr. hyde"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -93525,7 +94179,9 @@
         "particle:haystack"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "haystack"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -93613,7 +94269,9 @@
         "particle:local-yokel chowder"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "local-yokel chowder"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -95296,7 +95954,9 @@
         "particle:leopard"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "leopard"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -97193,7 +97853,9 @@
         "particle:mountain goat"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "mountain goat"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -99736,7 +100398,9 @@
         "particle:bunk beds"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "bunk beds"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -102024,7 +102688,9 @@
         "particle:rumpelbrella"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "rumpelbrella"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -102189,7 +102855,9 @@
         "particle:baron von rumpelbrella"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "baron von rumpelbrella"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -102768,7 +103436,9 @@
         "particle:decapitation"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "decapitation"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -103008,7 +103678,9 @@
         "particle:shredder"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "shredder"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -109847,7 +110519,9 @@
         "particle:cardinal richelieu"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "cardinal richelieu"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -111712,7 +112386,9 @@
         "particle:hairnet"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "hairnet"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -111986,7 +112662,9 @@
         "particle:dunce"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "dunce"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -112168,7 +112846,9 @@
         "particle:whisk broom"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "whisk broom"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -113933,7 +114613,9 @@
         "particle:cadet"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "cadet"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -115427,7 +116109,9 @@
         "particle:crossbow"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "crossbow"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -116504,7 +117188,9 @@
         "particle:family feud"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "family feud"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -120582,7 +121268,9 @@
         "particle:wood pulp"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "wood pulp"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -121668,7 +122356,9 @@
         "particle:minuteclods"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "minuteclods"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -121861,7 +122551,9 @@
         "particle:cauldron"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "cauldron"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -122918,7 +123610,9 @@
         "particle:esophagus"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "esophagus"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -125076,7 +125770,9 @@
         "particle:migrating ducks"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "migrating ducks"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -125327,7 +126023,9 @@
         "particle:canker sore"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "canker sore"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -125432,7 +126130,9 @@
         "particle:homing pigeon"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "homing pigeon"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -126442,7 +127142,9 @@
         "particle:mona lisa"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "mona lisa"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -126925,7 +127627,9 @@
         "particle:chapel"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "chapel"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -127007,7 +127711,9 @@
         "particle:sunday school"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "sunday school"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -127334,7 +128040,9 @@
         "particle:fledglings"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "fledglings"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -128446,7 +129154,9 @@
         "particle:nameplate"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "nameplate"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -129138,7 +129848,9 @@
         "particle:zipper"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "zipper"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -129464,7 +130176,9 @@
         "particle:chocolate turtle"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "chocolate turtle"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -129710,7 +130424,9 @@
         "particle:foot soldiers"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "foot soldiers"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -130035,7 +130751,9 @@
         "particle:streetwalker"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "streetwalker"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -131379,7 +132097,9 @@
         "particle:bullfighter"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "bullfighter"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -131526,7 +132246,9 @@
         "particle:frankenbowser"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "frankenbowser"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -131856,7 +132578,9 @@
         "particle:frankenbowser rex"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "frankenbowser rex"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -137533,7 +138257,9 @@
         "particle:briar"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "briar"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -138469,7 +139195,9 @@
         "particle:scarecrow"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "scarecrow"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -144894,7 +145622,9 @@
         "particle:stepladder"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "stepladder"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -145082,7 +145812,9 @@
         "particle:pup tent"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "pup tent"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -145369,7 +146101,9 @@
         "particle:seeing-eye chihuahua"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "seeing-eye chihuahua"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -145920,7 +146654,9 @@
         "particle:kiddie cocktail"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "kiddie cocktail"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -148005,7 +148741,9 @@
         "particle:hercules"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "hercules"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -156061,7 +156799,9 @@
         "particle:christmas tree"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "christmas tree"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -158668,7 +159408,9 @@
         "particle:stork"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "stork"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -158785,7 +159527,9 @@
         "particle:canteen"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "canteen"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -161419,7 +162163,9 @@
         "particle:sunglasses"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "sunglasses"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -161516,7 +162262,9 @@
         "particle:jack-o'-lantern"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "jack-o'-lantern"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -163946,7 +164694,9 @@
         "particle:electrical outlet"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "electrical outlet"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -164928,7 +165678,9 @@
         "particle:mortar"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "mortar"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -165130,7 +165882,9 @@
         "particle:scoop"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "scoop"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -165294,7 +166048,9 @@
         "particle:cake mixer"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "cake mixer"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -165574,7 +166330,9 @@
         "particle:pothole"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "pothole"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -165762,7 +166520,9 @@
         "particle:stitching"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "stitching"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -165852,7 +166612,9 @@
         "particle:farmer's almanac"
       ]
     ],
-    "Aliases": [],
+    "Aliases": [
+      "farmer's almanac"
+    ],
     "isHanzi": false,
     "isMarked": false,
     "dueIn": 0,
@@ -168902,7 +169664,8 @@
     "Aliases": [
       "dogs",
       "pack of dogs",
-      "dog"
+      "dog",
+      "wild pack of dogs"
     ],
     "isHanzi": false,
     "isMarked": false,
@@ -168934,7 +169697,8 @@
     ],
     "Aliases": [
       "genie",
-      "bottle"
+      "bottle",
+      "genie in a bottle"
     ],
     "isHanzi": false,
     "isMarked": false,

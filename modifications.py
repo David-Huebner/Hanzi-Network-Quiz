@@ -211,6 +211,22 @@ def search(database):
             found.append(key)
     return found
 
+def add_particles_alias(database):
+    modified = []
+
+    for key, entry in database.items():
+        alias = entry.get("Aliases", [])
+        without = ""
+        # Check if it's a flat list of strings (not a list of lists)
+        if key.startswith("particle:"):
+            without = key.replace("particle:","")
+            #print(without)
+            if without not in alias:
+                alias.append(without)
+                modified.append(key)
+                entry["Aliases"] = alias
+
+    return modified
 
 def flatten(xss):
     return [x for xs in xss for x in xs]
@@ -364,11 +380,11 @@ b = "particle:hamster cage"
 
 #changed = deep_clean(database,a,b)
 
-found = search(database)
+found = add_particles_alias(database)
 
 print("found:", found)
 
 
-#with open(filename, "w", encoding="utf-8") as f:
-#    json.dump(database, f, ensure_ascii=False, indent=2)
+with open(filename, "w", encoding="utf-8") as f:
+    json.dump(database, f, ensure_ascii=False, indent=2)
 

@@ -71,30 +71,6 @@ async function getNextAudio(sentence) {
     utterance.onend = resolve;
   });
 }
-//////////////////////////
-
-/* // Speech synthesis helper
-function speak(text, onend) {
-    window.speechSynthesis.cancel(); // Stop any ongoing speech
-    const utterance = new window.SpeechSynthesisUtterance(text);
-    if (onend) {
-        utterance.onend = onend;
-    }
-    window.speechSynthesis.speak(utterance);
-}
-
-
-// Speech synthesis helper 2
-async function getNextAudio(sentence) {
-      let audio = new SpeechSynthesisUtterance(sentence);
-      window.speechSynthesis.speak(audio);
-
-      return new Promise(resolve => {
-        audio.onend = resolve;
-      });
-} */
-
-//////////////////////////////
 
 let database = {};
 let characters = [];
