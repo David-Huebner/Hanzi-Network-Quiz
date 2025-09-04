@@ -36,7 +36,44 @@ async function updateQuizStatus() {
     });
 }
 
-// Speech synthesis helper
+// Cache the voice once, so both helpers use the same
+let englishVoice = null;
+
+function loadEnglishVoice(lang = "en-US") {
+  // Voices may not be ready immediately
+  const voices = speechSynthesis.getVoices();
+  englishVoice = voices.find(v => v.lang.startsWith(lang)) || null;
+}
+
+// Ensure voices are loaded (onvoiceschanged fires when ready)
+speechSynthesis.onvoiceschanged = () => {
+  loadEnglishVoice("en-US");
+};
+
+// --- Speech synthesis helper 1 ---
+function speak(text, onend) {
+  window.speechSynthesis.cancel(); // Stop any ongoing speech
+  const utterance = new SpeechSynthesisUtterance(text);
+  utterance.lang = "en-US";
+  if (englishVoice) utterance.voice = englishVoice;
+  if (onend) utterance.onend = onend;
+  window.speechSynthesis.speak(utterance);
+}
+
+// --- Speech synthesis helper 2 ---
+async function getNextAudio(sentence) {
+  const utterance = new SpeechSynthesisUtterance(sentence);
+  utterance.lang = "en-US";
+  if (englishVoice) utterance.voice = englishVoice;
+  speechSynthesis.speak(utterance);
+
+  return new Promise(resolve => {
+    utterance.onend = resolve;
+  });
+}
+//////////////////////////
+
+/* // Speech synthesis helper
 function speak(text, onend) {
     window.speechSynthesis.cancel(); // Stop any ongoing speech
     const utterance = new window.SpeechSynthesisUtterance(text);
@@ -46,6 +83,7 @@ function speak(text, onend) {
     window.speechSynthesis.speak(utterance);
 }
 
+
 // Speech synthesis helper 2
 async function getNextAudio(sentence) {
       let audio = new SpeechSynthesisUtterance(sentence);
@@ -54,7 +92,9 @@ async function getNextAudio(sentence) {
       return new Promise(resolve => {
         audio.onend = resolve;
       });
-}
+} */
+
+//////////////////////////////
 
 let database = {};
 let characters = [];
@@ -76,7 +116,10 @@ export async function startQuiz() {
     console.log("Starting quiz...");
     await loadDatabase()
     console.log("Loaded characters:", characters);
-    let remaining = characters.filter(c => database[c].isDue && database[c].isActive);
+    console.log("before");
+    let remaining = characters.filter(c => database[c].isDue && database[c].isActive &&
+         database[c].isHanzi && database[c].expanded_components.flat().length > 1);
+    console.log("after");
     let toRemove = false;
     while (remaining.length > 0) {
         currentChar = remaining[Math.floor(Math.random() * remaining.length)];
@@ -180,7 +223,7 @@ function listenForComponents() {
 
 function getYesNoAnswer(transcript) {
   // Accepted synonyms → normalize them
-  if (["yes", "yeah", "yep", "yup", "sure", "ok"].includes(transcript)) {
+  if (["yes", "yeah", "yep", "yup", "sure", "ok", "I was", "i was"].includes(transcript)) {
     return "yes";
   }
   if (["no", "nope", "nah"].includes(transcript)) {
@@ -284,7 +327,7 @@ function get_possible_answers(currentChar) {
     }
     // Expand all component sets
     let correctSets = [];
-    database[currentChar].components.forEach(set => {
+    database[currentChar].expanded_components.forEach(set => {
         correctSets = correctSets.concat(expandComponentList(set));
     });
     return correctSets

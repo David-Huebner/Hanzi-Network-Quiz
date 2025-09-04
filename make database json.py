@@ -9,6 +9,7 @@ import pandas as pd
 from itertools import product
 import json
 
+#Initial funtions used to extract the database from the anki deck (heisig.txt)
 
 def decompose(char, db):
     comps_list = db.get(char, [])

@@ -1,0 +1,109 @@
+#separator:tab
+#html:false
+p.			v1p31	33	p.A drop of									error
+p.丨			v1p32	34	p.Walking stick									error
+p.	ten, day		v1p37	51	p.Mist									error
+p.			v1p39-1	54	p.Animal legs				2					error
+p.勹			v1p39-2	55	p.Bound up				2					error
+p.丷			v1p40	56	p.Horns				2					error
+p.	p.Animal legs, p.One		v1p49	80	p.Tool				3					error
+p.			v1p50	83	p.By one's side				2					error
+p.畐	one, mouth, rice field		v1p54	89	p.Wealth				9					error
+p.圭	soil		v1p80	174	p.Bricks									3530
+p.冂			v1p88	194	p.Hood				2					error
+p.宀			v1p90	202	p.House				3					error
+p.艹			v1p100	238	p.Flower									error
+p.	mouth		v1p111	261	p.Chatterbox				6					error
+p.			v1p115-1	272	p.Umbrella				2					error
+p.			v1p115-2	274	p.Crutches				2					error
+p.亼	one, person		v1p117	278	p.Meeting	 (of humans)			3					error
+p.⻌			v1p128	304	p.Road				3					error
+p.刖	month, sword		v1p131	321	p.Butcher									error
+p.俞	p.Butcher, Person		v1p132	324	p.Slaughterhouse				9					3245
+p.夂			v1p133	327	p.Walking legs				3					error
+p.			v1p136	339	p.Crown				2					error
+p.亠			v1p137-1	344	p.Top hat				2					error
+p.亢	p.Top hat, how many?		v1p137-2	345	p.Whirlwind				4					3262
+p.			v1p140	357	p.Lidded crock				6					error
+p.			v1p142	362	p.Schoolhouse				5					error
+p.			v1p143	365	p.Taskmaster				4					error
+p.弋			v1p148	386	p.Arrow				3					error
+p.	arrow, soil		v1p150-1	394	p.Thanksgiving				6					error
+p.戊			v1p150-2	396	p.Parade				5					3681
+p.戌	p.parade, p.one		v1p151	401	p.March				6					3912
+p.戋			v1p152	404	p.Float				5					error
+p.			v1p157	422	p.Mending				5					error
+p.廴			v1p159	429	p.Stretch				2					error
+p.聿			v1p160-1	432	p.brush				6					3519
+p.疋			v1p160-2	434	p.Zoo									error
+p.帛	white, towel		v1p166	454	p.White towel				8					3674
+p.	p.crown, towel		v1p167	458	p.Apron				5					error
+p.			V1p168-1	461	p.Belt				2					error
+p.朿	tree, p.belt		V1p168-2	462	p.Thorn				6					error
+p.			v1p170	470	p.Ice				2					error
+p.啇	standing up, p.hood, ancient		v1p175	493	p.Antique				11					error
+p.仑	person, ancient spoon		v1p178	507	p.Lifeguard				4					2134
+p.			v1p179	510	p.Reclining									error
+p.咅	standing up, mouth		v1p183	526	p.Muzzle				8					error
+p.豕			V1p198-1	569	p.Sow				7					error
+p.			V1p198-2	572	p.Piglets				3					error
+p.⺶	sheep		v1p200	582	p.Wool				6					error
+p.隹			v1p201	586	p.Turkey				8					error
+p.囗			v1p205	596	p.Pent in				3					error
+p.			v1p212	639	p.Fingers									error
+p.			v1p217	681	p.Tucked under the arm				2					error
+p.殳	how many?, again		v1p220	698	p.Missile				4					error
+p.			v1p221	709	p.Drag				2					error
+p.	particle:crown, claw (n.)		V1p223-1	721	p.Birdhouse				6					error
+p.厶			V1p223-2	725	p.Elbow				2					error
+p.	one, p.ellbow		v1p224	733	p.Wall				3					error
+p.	p.wall, p.drop		v1p225	739	p.Infant				4					error
+p.㐬	stream, p.infant		V1p226-1	742	p.Baby Moses				7					error
+p.勾	p.elbow, p.bound up		V1p226-2	745	p.Cast	 (gips)			4					2030
+p.	mouth, particle:a drop of,particle:house		v1p230	763	p.Outhouse				8					error
+p.	ten,heart,one,net		v1p238	822	p.10 commandments				12					error
+p.娄	women, rice		v1p241	846	p.Bride				9					error
+p.曷	day, p.bound up, person, second		v1p251	914	p.Siesta				9					error
+p.壬	"""soldier"", ""particle:a drop of"""		v1p252	917	p.Porter		"keyword:""soldier"" or keyword:""p.a drop of"""		4					error
+p.乛			V1p253-1	923	p.Beret				1					error
+p.			V1p253-2	927	p.Plow				1					error
+p.	"""particle:flower"", ""particle:house"""		v1p254	934	p.Greenhouse				5					error
+p.	"""direction"", ""particle:reclining"""		v1p256	942	p.Banner				6					error
+p.彐			v1p267	1010	p.Broom				3					error
+p.			v1p268	1021	p.Rake				4					error
+p.耑	"""mountain"",""and"""		v1p271	1036	p.Prospector									error
+p.	"""particle:flower"",""one"","		v1p273	1043	p.Salad				4					error
+p.	extensive, twenty		v1p274	1050	p.Caverns				7					error
+p.			v1p275	1058	p.Quarter				6					error
+p.			v1p279	1085	p.Fencing foil				2					error
+p.弗	"""particle:crutches"", ""bow (n.) (weapon)"","		v1p281	1096	p.Dollar sign				5					1255
+p.丂			v1p282	1101	p.Snare				2					error
+p.			V1p284-1	1108	p.Slingshot				2					error
+p.			V1p284-2	1111	p.Pointed tail				2					error
+p.			v1p285	1120	p.Maestro				6					error
+p.⻖			v1p288	1136	p.Pinnacle				2					error
+p.	p.Animal legs, p.crown		v1p290	1157	p.Paper punch				4					error
+p.			v1p292	1162	p.Thread				3					error
+p.	"""work (n.)"", ""person"""		V1p294-1	1178	p.Spool				5					error
+p.幺			V1p294-2	1184	p.Cocoon				3					error
+p.糸	"""particle:cocoon"", ""small"""		v1p295	1185	p.Floss				6					error
+p.			v1p296	1188	p.Stamp				2					error
+p.	"""sword"",""particle:stamp"""		V1p297-1	1194	p.Letter opener				5					error
+p.			V1p297-2	1200	p.Chop				2					error
+p.甬	utilize, p.chop		v1p298	1207	p.Chop-rack	 / sealing wax			7					error
+p.㔾			V1p299-1	1210	p.Fingerprint				2					3375
+p.			Vap299-2	1217	p.Staples				3, 4					error
+p.酉			v1p300	1219	p.Whiskey bottle				7					3830
+p.壴	Table, ten		V1p301-1	1228	p.Drum				9					error
+p.皿			V1p301-2	1231	p.Dish				5					3754
+p.艮			v1p302	1238	p.Silver				6					error
+p.旡			v1p304	1255	p.waitress				4					error
+p.乂			v1p307	1263	p.Sheaf				2					error
+p.凵			V1p308-1	1272	p.Pit				2					error
+p.	"""particle:top hat"", ""particle:pit"", ""particle:sheaf"""		V1p308-2	1276	p.Fagin	 (barbarossa)			6					error
+p.			v1p310	1293	p.Cornucopia				2					error
+p.			v1p312	1303	p.Wire mesh				5					error
+p.	"""particle:animal legs"",""particle:wire mesh"",""particle:house"""		v1p313	1306	p.Hamster cage				10					error
+p.			v1p314	1309	p.Grow up				4					error
+p.			v1p317	1335	p.Bonsai				5					error
+p.			v1p318	1338	p.Cornstalk				3					error
