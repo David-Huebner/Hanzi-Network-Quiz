@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Chinese Character Quiz</title>
@@ -21,6 +22,11 @@
       margin-top: 1rem;
       font-weight: bold;
     }
+    #character-display {
+      font-size: 12rem;
+      font-weight: bold;
+      text-align: center;
+    }
   </style>
 </head>
 <body>
@@ -30,6 +36,7 @@
   <button id="skip-btn" style="display:none;">Skip</button>
   <div class="transcript" id="transcript"></div>
   <div class="result" id="result"></div>
+  <div id="character-display"></div>
 
   <!-- Load your quiz module -->
 <script type="module">

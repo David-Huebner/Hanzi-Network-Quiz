@@ -1,6 +1,6 @@
 import json
 import pandas as pd
-
+import re
 #All purpose script for manipulating the database
 
 
@@ -32,6 +32,22 @@ def clean_doubles(database,a,b):
         if a in flat_comps and b in flat_comps:
             # Remove all "water" from each component group
             entry["components"] = [[c for c in group if c != a] for group in components]
+            modified.append(key)
+
+    return modified
+
+
+def clean_doubles_primary(database,a,b):
+    modified = []
+
+    for key, entry in database.items():
+        components = entry.get("primary_components", [])
+        # Flatten components for checking
+        flat_comps = [c for group in components for c in group]
+
+        if a in flat_comps and b in flat_comps:
+            # Remove all "water" from each component group
+            entry["primary_components"] = [[c for c in group if c != a] for group in components]
             modified.append(key)
 
     return modified
@@ -225,6 +241,13 @@ def add_particles_alias(database):
                 alias.append(without)
                 modified.append(key)
                 entry["Aliases"] = alias
+        if "(" in key :
+            without = re.sub(r"\(.*?\)", "", key).strip()
+            #print(without)
+            if without not in alias:
+                alias.append(without)
+                modified.append(key)
+                entry["Aliases"] = alias
 
     return modified
 
@@ -378,11 +401,16 @@ b = "particle:zoo"
 a = "one"
 b = "particle:hamster cage"
 
+a = "one"
+b = "two"
+
 #changed = deep_clean(database,a,b)
 
-found = add_particles_alias(database)
+#found = add_particles_alias(database)
 
-print("found:", found)
+changed = clean_doubles_primary(database,a,b)
+
+print("found:", changed)
 
 
 with open(filename, "w", encoding="utf-8") as f:
